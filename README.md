@@ -13,4 +13,4 @@
   * changed the flags and hidden directory name on website
   * started next two tasks (ciphers and steganography)
 * 12/16/2021
-  * 
+  * added css page
