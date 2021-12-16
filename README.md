@@ -7,3 +7,10 @@
   * created basic format of index and hello page of website
   * created hidden directory
   * tested to make sure website can be viewed
+* 12/15/2021
+  * created Try Hack Me room
+  * finished first two tasks (intro, website)
+  * changed the flags and hidden directory name on website
+  * started next two tasks (ciphers and steganography)
+* 12/16/2021
+  * 
