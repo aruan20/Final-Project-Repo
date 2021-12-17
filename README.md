@@ -14,3 +14,6 @@
   * started next two tasks (ciphers and steganography)
 * 12/16/2021
   * added css page
+  * created new hidden directories
+* 12/17/2021
+  * 
