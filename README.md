@@ -17,3 +17,8 @@
   * created new hidden directories
 * 12/17/2021
   * 
+
+### Sydney Moy:
+* 12/14/2021:
+  * startd the slides for the presentation 
+  * 
