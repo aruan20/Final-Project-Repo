@@ -20,3 +20,8 @@
   * made pages responsive
   * properly connected HTML and CSS pages
   * 
+
+### Sydney Moy:
+* 12/14/2021:
+  * startd the slides for the presentation 
+  * 
