@@ -13,7 +13,10 @@
   * changed the flags and hidden directory name on website
   * started next two tasks (ciphers and steganography)
 * 12/16/2021
-  * added css page
+  * added CSS page
   * created new hidden directories
 * 12/17/2021
+  * edited CSS page (changed colors and format)
+  * made pages responsive
+  * properly connected HTML and CSS pages
   * 
