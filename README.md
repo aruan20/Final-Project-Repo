@@ -19,9 +19,9 @@
   * edited CSS page (changed colors and format)
   * made pages responsive
   * properly connected HTML and CSS pages
-  * 
+  * worked on steganography section
 
 ### Sydney Moy:
 * 12/14/2021:
-  * startd the slides for the presentation 
-  * 
+  * startd the slides for the presentation
+  *
