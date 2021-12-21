@@ -1,5 +1,13 @@
 # explodingcheetos.github.io
 
+## Project Description:
+  Our goal is to provide more practice on finding hidden information and introduce new ciphers.
+
+## Documents, Presentation, Try Hack Me Room Links
+* Ideas Document: https://docs.google.com/document/d/1FHo6kY1mjLKmKPrqO494hOHZgadxbxn02JzaMvFb1TQ/edit?usp=sharing
+* Presentation: https://docs.google.com/presentation/d/1mnTxMR0WyhG1BMe7XizLpUBaCAjefC2vFCn2q4NvwxM/edit?usp=sharing
+* THM Room: https://tryhackme.com/room/ctfforciphers
+
 ## Daily Logs:
 ### Amanda Ruan:
 * 12/14/2021
