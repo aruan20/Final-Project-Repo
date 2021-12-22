@@ -10,6 +10,9 @@
 
 ## Daily Logs:
 ### Amanda Ruan:
+* Previous Work Days
+  * created list of possible ideas to implement
+  * researched nikto and started website, decided to switch topics
 * 12/14/2021
   * added to the list of possible ideas to implement
   * created basic format of index and hello page of website
@@ -33,6 +36,10 @@
   * worked on steganography section of Try Hack Me room
     * hid two flags in picture
     * figured out how to attach files on THM
+* 12/21/2021
+  * created story for website
+  * edited the website
+  * chose ciphers to include on THM room
 ### Sydney Moy:
 * 12/14/2021:
   * startd the slides for the presentation
