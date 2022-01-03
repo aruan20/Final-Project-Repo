@@ -37,9 +37,16 @@
     * hid two flags in picture
     * figured out how to attach files on THM
 * 12/21/2021
-  * created story for website
+  * created imaginary world for website
   * edited the website
   * chose ciphers to include on THM room
+* 1/1/2021
+  * finished cipher section of THM room
+  * worked on website's story
+* 1/2/2021
+  * worked on story
+  * figured out how THM relates to website
+  * made plans on how to edit THM
 ### Sydney Moy:
 * 12/14/2021:
   * startd the slides for the presentation
