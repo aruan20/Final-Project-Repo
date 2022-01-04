@@ -1,11 +1,19 @@
 body {
-  background-color: black; //aliceblue
+  background-color: black;
 }
 
 h1 {
   color: white;
   text-align: center;
 }
+h2 {
+  margin-left: 5%;
+  margin-right: 5%;
+}
 p {
   color: white;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  margin-right: 10%;
+  margin-left: 10%;
 }
