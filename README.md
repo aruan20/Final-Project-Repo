@@ -1,4 +1,4 @@
-# explodingcheetos.github.io
+# Final Project
 
 ## Project Description:
   Our goal is to provide more practice on finding hidden information and introduce new ciphers.
@@ -7,6 +7,7 @@
 * Ideas Document: https://docs.google.com/document/d/1FHo6kY1mjLKmKPrqO494hOHZgadxbxn02JzaMvFb1TQ/edit?usp=sharing
 * Presentation: https://docs.google.com/presentation/d/1mnTxMR0WyhG1BMe7XizLpUBaCAjefC2vFCn2q4NvwxM/edit?usp=sharing
 * THM Room: https://tryhackme.com/room/ctfforciphers
+* Website: https://aruan20.github.io/Final-Project-Repo/
 
 ## Daily Logs:
 ### Amanda Ruan:
@@ -40,13 +41,18 @@
   * created imaginary world for website
   * edited the website
   * chose ciphers to include on THM room
-* 1/1/2021
+* 1/1/2022
   * finished cipher section of THM room
   * worked on website's story
-* 1/2/2021
+* 1/2/2022
   * worked on story
   * figured out how THM relates to website
   * made plans on how to edit THM
+* 1/3/2022
+  * worked on story
+  * finished THM room
+* 1/4/2022
+  * changed website's layout
 ### Sydney Moy:
 * 12/14/2021:
   * startd the slides for the presentation
