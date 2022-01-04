@@ -1,8 +1,11 @@
 body {
-  background-color: rgb(240,248,255); //aliceblue
+  background-color: black; //aliceblue
 }
 
 h1 {
-  color: black;
+  color: white;
   text-align: center;
+}
+p {
+  color: white;
 }
