@@ -1,7 +1,7 @@
-# Final Project
+# Final Project by ExplodingCheetos
 
 ## Project Description:
-  Our goal is to provide more practice on finding hidden information and introduce new ciphers.
+  Our goal is to provide more practice on finding hidden information on websites, steganography, and ciphers we previously learned. We will introduce the class to two new ciphers: Hill and Polybius Square. Our activity is a CTF challenge on Try Hack Me.
 
 ## Documents, Presentation, Try Hack Me Room Links
 * Ideas Document: https://docs.google.com/document/d/1FHo6kY1mjLKmKPrqO494hOHZgadxbxn02JzaMvFb1TQ/edit?usp=sharing
@@ -53,6 +53,8 @@
   * finished THM room
 * 1/4/2022
   * changed website's layout
+  * finished story and website
+  * updated project description
 ### Sydney Moy:
 * 12/14/2021:
   * startd the slides for the presentation
