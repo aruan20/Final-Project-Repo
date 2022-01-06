@@ -58,7 +58,24 @@
 ### Sydney Moy:
 * 12/14/2021:
   * started the slides for the presentation
-  *
+* 12/15/2021:
+  * changed the format of the slides
+  * outlined the sections we're going to present
+* 12/16/2021:
+  * worked on Hill Cipher slides
+    * what it is
+    * example to show how it works 
+    * example for them to try out
+* 12/17/2021:
+  * worked on Polybius Square Cipher slides
+    * what it is
+    * example to show how it works 
+    * example for them to try out
+* 12/20/2021:
+  * looked for a new tool to show to the class
+* 12/21/2021:
+  * brainstormed ideas for the story
+  * wrote out fragments for us to build off of for the story
 * 1/2/2022:
   * wrote out parts of the story 
 * 1/3/2022:
