@@ -57,5 +57,11 @@
   * updated project description
 ### Sydney Moy:
 * 12/14/2021:
-  * startd the slides for the presentation
+  * started the slides for the presentation
   *
+* 1/2/2022:
+  * wrote out parts of the story 
+* 1/3/2022:
+  * worked on the story 
+* 1/4/2022:
+  * added to and finalized the story for the website
